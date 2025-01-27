@@ -1,0 +1,1228 @@
+
+    {
+        "question":"Which kind of follow up is planned with your contact?",
+        "options":[
+            "Email",
+            "Phone",
+            "Schedule a Visit",
+            "No action"
+        ],
+        "answer":"He mentioned needing a detailed proposal,  and he seemed genuinely interested in our platform's analytics capabilities, which are best explained visually.  An email wouldn't be sufficient to convey that complexity, and a phone call would be too brief.  A quick visit to his booth tomorrow morning would allow me to leave behind a printed proposal and demonstrate the analytics in person, addressing his specific questions from our conversation.",
+        "classified_option":"['Schedule a Visit']"
+    }
+
+    {
+        "question":"In which products is you contact interested in?",
+        "options":[
+            "MY-SYSTEM",
+            "Notion",
+            "JTS",
+            "JS EcoLine",
+            "AKW100",
+            "AX100"
+        ],
+        "answer":"He mentioned struggling with inventory management, specifically needing something that integrated well with his existing CRM.  He seemed particularly interested in automated reporting features, which I know are a strong point of MY-SYSTEM.  He also briefly mentioned using Notion for project management, but seemed less focused on that aspect of his business during our conversation.  He didn't directly express interest in the other products, though his comments about needing better data analysis capabilities suggested he might benefit from JS EcoLine if he were to explore options more fully later.",
+        "classified_option":"['MY-SYSTEM', 'JS EcoLine']"
+    }
+
+    {
+        "question":"What is the contact person interested in?",
+        "options":[
+            "100 Additive Manufacturing",
+            "200 Automation",
+            "300 Advanced Manufacturing",
+            "234 Assembly Systems",
+            "256 Joining Systems for large components",
+            "Others"
+        ],
+        "answer":"He mentioned struggling with efficiency in their current welding processes for their large-scale wind turbine components, specifically citing issues with  cycle times and consistent weld quality.  He also briefly touched on exploring robotic solutions to improve the automation of the welding process, although he didn't go into detail.  That's why I considered \"Joining Systems for large components\" as a primary interest, with \"Automation\" as a secondary, less-defined area of potential interest.",
+        "classified_option":"['200 Automation', '256 Joining Systems for large components']"
+    }
+
+    {
+        "question":"What is the type of the contact?",
+        "options":[
+            "Existing customer",
+            "Supplier",
+            "New customer \/ Prospect",
+            "Press \/ media",
+            "Competitor"
+        ],
+        "answer":"He mentioned his company's been using our competitor's software for the past three years, but expressed frustration with their customer service and lack of certain features we offer.  He seemed genuinely interested in our demo and asked several detailed questions about pricing and integration with his existing systems.  He also requested a follow-up call to discuss his specific needs further.  While not an existing customer, he's a highly qualified prospect for conversion.",
+        "classified_option":"['New customer \/ Prospect']"
+    }
+
+    {
+        "question":"What kind of solution is you contract searching for?",
+        "options":[
+            "Scan business cards",
+            "Clean up CRM",
+            "Extract data from emails",
+            "Improve CRM data quality",
+            "Capture trade fair contacts"
+        ],
+        "answer":"He mentioned struggling to keep his CRM up-to-date, especially after trade shows like this one.  He specifically complained about the manual entry of all the business cards he collects,  and how many leads likely slip through the cracks because of it.  He also said he'd like a way to automatically add information from emails into his CRM to keep everything in one place.  So it's not just about capturing contacts at the trade fair, but the whole process of getting that information into a usable format in his system.",
+        "classified_option":"['Scan business cards', 'Clean up CRM', 'Extract data from emails', 'Improve CRM data quality', 'Capture trade fair contacts']"
+    }
+
+    {
+        "question":"In which products is your contact interested in?",
+        "options":[
+            "Automotive radar target simulation",
+            "Noise figure measurements",
+            "Double-Pulse Testing",
+            "Display port debugging and compliance",
+            "High-speed interconnect testing"
+        ],
+        "answer":"He mentioned struggling with signal integrity issues on a new automotive radar system they're developing, specifically around the high-frequency components. That immediately made me think of our high-speed interconnect testing solutions.  He also briefly touched upon needing more accurate noise figure measurements for their earlier-stage prototyping, but seemed far more focused on the challenges he was facing with the final product.",
+        "classified_option":"['High-speed interconnect testing', 'Noise figure measurements']"
+    }
+
+    {
+        "question":"Who would you like to copy in the follow up?",
+        "options":[
+            "Stephan Maier",
+            "Joachim Wagner",
+            "Erik Schneider",
+            "Oliver Eibel",
+            "Angelina Haug",
+            "Marisa Peng",
+            "Johannes Wagner",
+            "Jessica Hanke",
+            "Sandro Kalter",
+            "Jens Roschmann",
+            "Domiki Stein",
+            "Sean Kennin",
+            "Tim Persson"
+        ],
+        "answer":"Joachim Wagner is the head of procurement at their company, and he expressed a strong interest in our software's cost-saving features during our conversation.  I also briefly spoke with Erik Schneider, who is in their IT department, and he mentioned needing to review the technical specifications before they'd proceed.  Including him would ensure a smooth transition should Joachim approve the purchase.",
+        "classified_option":"['Joachim Wagner', 'Erik Schneider']"
+    }
+
+    {
+        "question":"What productinterests did you contact express?",
+        "options":[
+            "BusinessCards",
+            "DataEnrichment",
+            "VisitReport",
+            "Data Cleansing",
+            "DataQuality"
+        ],
+        "answer":"He was particularly interested in improving the accuracy of his company's customer database, mentioning several instances where outdated information led to missed opportunities.  He also specifically asked about our data cleansing capabilities and how they could help him identify and correct inaccurate data points.  While he picked up a business card, the conversation focused heavily on the data quality and enrichment aspects of our offerings; the visit report feature was only briefly touched upon.",
+        "classified_option":"['DataEnrichment', 'Data Cleansing', 'DataQuality']"
+    }
+
+    {
+        "question":"When does the contact person wish to receive a follow up?",
+        "options":[
+            "1 week",
+            "2 weeks",
+            "3 weeks"
+        ],
+        "answer":"During our conversation,  Mr. Henderson mentioned he's quite busy next week with a major internal project. He did, however, express interest in scheduling a call sometime the following week, to discuss our proposal in more detail after he's had a chance to review the materials I provided.  He seemed to prefer a less rushed approach, indicating that two weeks would give him sufficient time to make an informed decision.",
+        "classified_option":"['2 weeks']"
+    }
+
+    {
+        "question":"Which kind of follow up is planned with your contact?",
+        "options":[
+            "Email",
+            "Phone",
+            "Schedule a Visit",
+            "No action"
+        ],
+        "answer":"He mentioned being swamped this week, but seemed genuinely interested in our new sustainability initiatives and asked for the white paper I offered.  His business card indicated he's the head of procurement, so a phone call next week to follow up on the white paper and see if we can schedule a brief introductory call the following week would be most effective before sending anything more extensive.  An email alone wouldn't be impactful enough, given his position, and a visit would be premature.",
+        "classified_option":"['Phone']"
+    }
+
+    {
+        "question":"In which products is you contact interested in?",
+        "options":[
+            "MY-SYSTEM",
+            "Notion",
+            "JTS",
+            "JS EcoLine",
+            "AKW100",
+            "AX100"
+        ],
+        "answer":"He mentioned struggling with inefficient project management, specifically the difficulty of tracking progress across multiple teams.  He seemed particularly interested in integrated solutions, and when I mentioned MY-SYSTEM's project management features and its ability to connect with other systems, his eyes lit up. He also briefly alluded to needing better data visualization tools, which I believe AKW100 offers.",
+        "classified_option":"['MY-SYSTEM', 'AKW100']"
+    }
+
+    {
+        "question":"What is the contact person interested in?",
+        "options":[
+            "100 Additive Manufacturing",
+            "200 Automation",
+            "300 Advanced Manufacturing",
+            "234 Assembly Systems",
+            "256 Joining Systems for large components",
+            "Others"
+        ],
+        "answer":"He was initially drawn to our booth because of the brochures highlighting our automated assembly line solutions, specifically mentioning the speed improvements. However,  during our conversation, he steered the discussion towards the challenges he faces in joining large, irregularly shaped components in his aerospace manufacturing plant. He kept returning to the limitations of his current welding processes and expressed a strong interest in exploring alternative, more efficient joining technologies. While automation was a starting point, his core need appeared to be resolving his joining challenges.",
+        "classified_option":"['200 Automation', '256 Joining Systems for large components', '300 Advanced Manufacturing']"
+    }
+
+    {
+        "question":"What is the type of the contact?",
+        "options":[
+            "Existing customer",
+            "Supplier",
+            "New customer \/ Prospect",
+            "Press \/ media",
+            "Competitor"
+        ],
+        "answer":"He mentioned being involved in procurement for a large manufacturing firm,  and while I didn't recognize his company name, he wasn't familiar with our products. He seemed genuinely interested in learning more about our new line of automated packaging solutions, actively asking questions about capacity and integration with their existing systems.  He also took a brochure and noted down our contact information.  That suggests he's a strong prospect for a new customer.",
+        "classified_option":"['New customer \/ Prospect']"
+    }
+
+    {
+        "question":"What kind of solution is you contract searching for?",
+        "options":[
+            "Scan business cards",
+            "Clean up CRM",
+            "Extract data from emails",
+            "Improve CRM data quality",
+            "Capture trade fair contacts"
+        ],
+        "answer":"He mentioned his team spends hours manually entering contact information from the trade show into their CRM, and that it's leading to inconsistencies and incomplete data.  He also said they're looking for a way to digitize their business card collection to streamline this process.  His frustration with the current manual system and his explicit mention of business cards and CRM entry strongly suggests multiple needs.",
+        "classified_option":"['Scan business cards', 'Clean up CRM', 'Improve CRM data quality', 'Capture trade fair contacts']"
+    }
+
+    {
+        "question":"In which products is your contact interested in?",
+        "options":[
+            "Automotive radar target simulation",
+            "Noise figure measurements",
+            "Double-Pulse Testing",
+            "Display port debugging and compliance",
+            "High-speed interconnect testing"
+        ],
+        "answer":"He mentioned significant frustration with debugging issues on a new line of high-resolution displays, hinting at testing bottlenecks.  He also briefly touched upon needing more robust testing for their next-gen automotive radar system, though he was much more detailed and engaged when discussing display issues.",
+        "classified_option":"['Display port debugging and compliance', 'Automotive radar target simulation']"
+    }
+
+    {
+        "question":"Who would you like to copy in the follow up?",
+        "options":[
+            "Stephan Maier",
+            "Joachim Wagner",
+            "Erik Schneider",
+            "Oliver Eibel",
+            "Angelina Haug",
+            "Marisa Peng",
+            "Johannes Wagner",
+            "Jessica Hanke",
+            "Sandro Kalter",
+            "Jens Roschmann",
+            "Domiki Stein",
+            "Sean Kennin",
+            "Tim Persson"
+        ],
+        "answer":"Joachim Wagner is the head of engineering at their company, and he expressed significant interest in the technical specifications during our conversation.  Additionally, Stephan Maier, the CEO, seemed intrigued by the potential cost savings I highlighted, although he didn't explicitly ask for a follow-up.  Including both will ensure all relevant stakeholders are informed.",
+        "classified_option":"['Joachim Wagner', 'Stephan Maier']"
+    }
+
+    {
+        "question":"When does the contact person wish to receive a follow up?",
+        "options":[
+            "1 week",
+            "2 weeks",
+            "3 weeks"
+        ],
+        "answer":"During our conversation,  Mr. Jones mentioned he's swamped with a big project deadline in two weeks, but would be much more receptive to a discussion after that. He specifically said, \"Let's connect after the 17th, I'll have a much clearer picture then.\"  Therefore, I'm selecting the option reflecting his preferred timeframe.",
+        "classified_option":"['2 weeks']"
+    }
+
+    {
+        "question":"Which kind of follow up is planned with your contact?",
+        "options":[
+            "Email",
+            "Phone",
+            "Schedule a Visit",
+            "No action"
+        ],
+        "answer":"He mentioned needing a proposal tailored to their specific needs, which is best done via email.  He also seemed interested in a quick overview of the software, and  a brief phone call would be a more efficient way to do that than a visit.  Therefore, both email and phone follow-up are planned.",
+        "classified_option":"['Email', 'Phone']"
+    }
+
+    {
+        "question":"In which products is you contact interested in?",
+        "options":[
+            "MY-SYSTEM",
+            "Notion",
+            "JTS",
+            "JS EcoLine",
+            "AKW100",
+            "AX100"
+        ],
+        "answer":"He mentioned struggling with inefficient project management and repeatedly emphasized the need for a system that integrated well with their existing CRM, which he named (though I didn't catch the exact name).  He seemed particularly interested in streamlined workflows and reporting capabilities.  He also casually mentioned using Notion for some personal organization, but didn't express any interest in switching to a similar product for work.  The conversation drifted to his frustrations with their current system's lack of automation; I believe he said it was JTS, but I'm not 100% positive.  I didn't get a chance to delve into the specifics of his current setup due to time constraints.",
+        "classified_option":"['MY-SYSTEM', 'JTS']"
+    }
+
+    {
+        "question":"What is the contact person interested in?",
+        "options":[
+            "100 Additive Manufacturing",
+            "200 Automation",
+            "300 Advanced Manufacturing",
+            "234 Assembly Systems",
+            "256 Joining Systems for large components",
+            "Others"
+        ],
+        "answer":"He mentioned struggling with bottlenecks in his current assembly line, specifically related to the joining of large, irregularly shaped metal components.  He was particularly interested in exploring faster, more efficient methods, implying a need for advanced joining systems to improve throughput.  While he briefly touched on automation in general, his primary focus and expressed frustration centered around the joining process.  His company is involved in heavy machinery, which further supports the relevance of joining systems for large components.",
+        "classified_option":"['200 Automation', '234 Assembly Systems', '256 Joining Systems for large components', '300 Advanced Manufacturing']"
+    }
+
+    {
+        "question":"What is the type of the contact?",
+        "options":[
+            "Existing customer",
+            "Supplier",
+            "New customer \/ Prospect",
+            "Press \/ media",
+            "Competitor"
+        ],
+        "answer":"He mentioned his company,  \"Global Dynamics,\" is a logistics firm, and we're in direct competition for several key accounts.  He seemed genuinely interested in our new automated warehousing system, though, so there's definitely a competitive element, but also a potential area for future collaboration or intelligence gathering on their strategies. He also dropped a card suggesting we could compare notes on industry trends sometime.",
+        "classified_option":"['Competitor', 'New customer \/ Prospect']"
+    }
+
+    {
+        "question":"What kind of solution is you contract searching for?",
+        "options":[
+            "Scan business cards",
+            "Clean up CRM",
+            "Extract data from emails",
+            "Improve CRM data quality",
+            "Capture trade fair contacts"
+        ],
+        "answer":"He mentioned his team spends hours manually entering contact information from the trade show into their CRM, complaining about how inefficient it is and how many errors creep in.  He also said their existing CRM data is a mess, full of duplicates and outdated information.  He specifically highlighted the need for a better way to manage the leads generated here at the show.",
+        "classified_option":"['Scan business cards', 'Clean up CRM', 'Improve CRM data quality', 'Capture trade fair contacts']"
+    }
+
+    {
+        "question":"In which products is your contact interested in?",
+        "options":[
+            "Automotive radar target simulation",
+            "Noise figure measurements",
+            "Double-Pulse Testing",
+            "Display port debugging and compliance",
+            "High-speed interconnect testing"
+        ],
+        "answer":"He mentioned experiencing significant issues with signal integrity in his company's new high-speed data transmission system for autonomous vehicles.  He specifically voiced frustration with debugging and seemed quite interested in solutions that could help them quickly identify and resolve problems related to data transmission speed and reliability.  His comments strongly implied a need for effective high-speed interconnect testing capabilities.  While he briefly touched upon noise figure, it wasn't a primary concern compared to the urgent need to get their high-speed data links functioning correctly.",
+        "classified_option":"['High-speed interconnect testing']"
+    }
+
+    {
+        "question":"Who would you like to copy in the follow up?",
+        "options":[
+            "Stephan Maier",
+            "Joachim Wagner",
+            "Erik Schneider",
+            "Oliver Eibel",
+            "Angelina Haug",
+            "Marisa Peng",
+            "Johannes Wagner",
+            "Jessica Hanke",
+            "Sandro Kalter",
+            "Jens Roschmann",
+            "Domiki Stein",
+            "Sean Kennin",
+            "Tim Persson"
+        ],
+        "answer":"Joachim Wagner is our head of sales for the region, and this prospect expressed strong interest in our premium package, which falls under Joachim's purview.  He'll be able to provide additional insights and support the next steps in closing the deal.  I also want to copy Erik Schneider, our technical specialist, because the prospect had some very specific questions about the software integration capabilities that only Erik can fully answer.",
+        "classified_option":"['Joachim Wagner', 'Erik Schneider']"
+    }
+
+    {
+        "question":"What productinterests did you contact express?",
+        "options":[
+            "BusinessCards",
+            "DataEnrichment",
+            "VisitReport",
+            "Data Cleansing",
+            "DataQuality"
+        ],
+        "answer":"He was initially drawn in by the Data Enrichment capabilities, specifically mentioning challenges his marketing team faces with outdated contact information.  However, as the conversation progressed, he expressed a strong interest in improving the overall Data Quality of his client database, implying that Data Cleansing would be a valuable addition. He also picked up a business card, though didn't specifically mention it as a key driver of interest in any of our products.  The Visit Report feature wasn't explicitly discussed, but it's something I think would be beneficial to him given his comments on streamlining his team's workflow.",
+        "classified_option":"['DataEnrichment', 'Data Cleansing', 'DataQuality']"
+    }
+
+    {
+        "question":"When does the contact person wish to receive a follow up?",
+        "options":[
+            "1 week",
+            "2 weeks",
+            "3 weeks"
+        ],
+        "answer":"During our conversation,  Mr. Henderson mentioned he's currently swamped with a big project deadline in two weeks. He implied that anything before then would be too soon, but after that he\u2019d have more time to review our proposal.  He seemed quite interested though, so I want to follow up before he gets completely sidetracked by other priorities.",
+        "classified_option":"['2 weeks']"
+    }
+
+    {
+        "question":"Which kind of follow up is planned with your contact?",
+        "options":[
+            "Email",
+            "Phone",
+            "Schedule a Visit",
+            "No action"
+        ],
+        "answer":"I'm going to follow up with Mark via email first,  to send him the product brochure we discussed and the case study he was interested in.  If I don't hear back within a week, I'll give him a phone call to see if he had a chance to review the materials and answer any questions he might have.  A site visit would be ideal but I'm prioritizing efficiency and need to gauge his level of interest first before scheduling anything that resource intensive.",
+        "classified_option":"['Email', 'Phone']"
+    }
+
+    {
+        "question":"In which products is you contact interested in?",
+        "options":[
+            "MY-SYSTEM",
+            "Notion",
+            "JTS",
+            "JS EcoLine",
+            "AKW100",
+            "AX100"
+        ],
+        "answer":"He mentioned struggling with inefficient workflow management in his current role as a project manager at a mid-sized construction firm.  He specifically talked about the difficulty in tracking deadlines and resource allocation across multiple projects.  He seemed particularly interested in solutions that offered robust project management features, and I believe MY-SYSTEM's integrated task management and reporting capabilities would directly address his pain points. He also briefly alluded to needing better communication tools, which Notion offers but MY-SYSTEM also has built-in collaborative features so I think it is more likely to be the one that satisfies him.",
+        "classified_option":"['MY-SYSTEM', 'Notion']"
+    }
+
+    {
+        "question":"What is the contact person interested in?",
+        "options":[
+            "100 Additive Manufacturing",
+            "200 Automation",
+            "300 Advanced Manufacturing",
+            "234 Assembly Systems",
+            "256 Joining Systems for large components",
+            "Others"
+        ],
+        "answer":"He mentioned struggling with efficiency in their current welding process for large steel structures, specifically citing issues with throughput and consistency.  He was very interested in seeing if there were faster, more precise joining solutions available, and spent a good deal of time examining our brochure on laser-based joining techniques. While he briefly looked at our automation options, his primary focus was the challenges with his current large component joining methods.",
+        "classified_option":"['256 Joining Systems for large components', '300 Advanced Manufacturing']"
+    }
+
+    {
+        "question":"What is the type of the contact?",
+        "options":[
+            "Existing customer",
+            "Supplier",
+            "New customer \/ Prospect",
+            "Press \/ media",
+            "Competitor"
+        ],
+        "answer":"He mentioned being a project manager at a large construction firm, and although I don't recognize his company name from our existing customer database, he expressed strong interest in our new line of sustainable building materials and specifically requested a follow-up meeting to discuss pricing and potential integration into an upcoming project.  His questions were insightful and he seemed genuinely interested in exploring a business relationship, rather than just gathering general information.  There was no indication he was representing the press or a competing firm, and he definitely wasn't a supplier.",
+        "classified_option":"['New customer \/ Prospect']"
+    }
+
+    {
+        "question":"What kind of solution is you contract searching for?",
+        "options":[
+            "Scan business cards",
+            "Clean up CRM",
+            "Extract data from emails",
+            "Improve CRM data quality",
+            "Capture trade fair contacts"
+        ],
+        "answer":"He mentioned his CRM was a mess, overflowing with outdated contacts and duplicates, making it hard to identify genuinely valuable leads.  He also specifically said he'd been manually entering all his trade show contacts, which was incredibly time-consuming.  He seemed less interested in email extraction and more focused on improving the overall state of his CRM and streamlining the contact gathering process at events like this.",
+        "classified_option":"['Clean up CRM', 'Improve CRM data quality', 'Capture trade fair contacts']"
+    }
+
+    {
+        "question":"In which products is your contact interested in?",
+        "options":[
+            "Automotive radar target simulation",
+            "Noise figure measurements",
+            "Double-Pulse Testing",
+            "Display port debugging and compliance",
+            "High-speed interconnect testing"
+        ],
+        "answer":"He mentioned experiencing significant challenges with signal integrity in his company's newest high-speed data transfer system for autonomous vehicles.  He specifically commented on the difficulties in ensuring reliable data transmission at gigabit speeds,  and hinted at potential issues with jitter. This directly relates to high-speed interconnect testing, and indirectly touches upon automotive radar (as a component within the autonomous vehicle system). While he didn't explicitly express interest in the other options, his problems with high-speed data strongly suggest that high-speed interconnect testing solutions would be extremely relevant to his needs.",
+        "classified_option":"['High-speed interconnect testing', 'Automotive radar target simulation']"
+    }
+
+    {
+        "question":"Who would you like to copy in the follow up?",
+        "options":[
+            "Stephan Maier",
+            "Joachim Wagner",
+            "Erik Schneider",
+            "Oliver Eibel",
+            "Angelina Haug",
+            "Marisa Peng",
+            "Johannes Wagner",
+            "Jessica Hanke",
+            "Sandro Kalter",
+            "Jens Roschmann",
+            "Domiki Stein",
+            "Sean Kennin",
+            "Tim Persson"
+        ],
+        "answer":"Joachim Wagner mentioned needing a solution similar to ours, but for a larger scale operation.  He specifically asked if we could handle his company's volume, so I think a follow-up email with detailed information about our scaling capabilities would be valuable to him, and he might be able to help us secure a larger contract.  Erik Schneider seemed very interested in our sustainability initiatives; he\u2019s in charge of that area at his company, so he's a relevant contact for future collaboration and potential case studies.",
+        "classified_option":"['Joachim Wagner', 'Erik Schneider']"
+    }
+
+    {
+        "question":"What productinterests did you contact express?",
+        "options":[
+            "BusinessCards",
+            "DataEnrichment",
+            "VisitReport",
+            "Data Cleansing",
+            "DataQuality"
+        ],
+        "answer":"He was initially drawn in by the BusinessCards demo, commenting on how sleek the design was and how it would improve his team's networking efforts.  However, the conversation quickly shifted when he mentioned difficulties with inaccurate data in his CRM.  This led us to discuss DataEnrichment and Data Cleansing,  as he seemed particularly frustrated with the amount of time his team spent manually correcting entries.  The VisitReport feature didn't directly come up, but the way he described his post-trade show reporting process implied it could significantly streamline his workflow, though we didn't fully explore that option in detail due to time constraints.  He didn't explicitly mention DataQuality as a standalone concern, but his desire for cleaner, more accurate data strongly suggests it's a significant underlying need.",
+        "classified_option":"['BusinessCards', 'DataEnrichment', 'Data Cleansing', 'DataQuality']"
+    }
+
+    {
+        "question":"When does the contact person wish to receive a follow up?",
+        "options":[
+            "1 week",
+            "2 weeks",
+            "3 weeks"
+        ],
+        "answer":"He mentioned being swamped this week with a big project deadline, but said he'd have more breathing room the following week.  He seemed genuinely interested, so I didn't want to push it too hard. While he didn't explicitly state a preference,  I got the impression a follow up in two weeks would be ideal, giving him time to settle things.",
+        "classified_option":"['2 weeks']"
+    }
+
+    {
+        "question":"Which kind of follow up is planned with your contact?",
+        "options":[
+            "Email",
+            "Phone",
+            "Schedule a Visit",
+            "No action"
+        ],
+        "answer":"He mentioned needing a detailed quote and some case studies relevant to his company's specific challenges in automated packaging.  Email is ideal for sending those documents. He also seemed pretty busy, so a quick follow-up phone call to gauge his interest and answer any immediate questions would be efficient.  A visit seems a bit premature at this stage \u2013  let's see how he responds to the initial email and phone call before scheduling that.",
+        "classified_option":"['Email', 'Phone']"
+    }
+
+    {
+        "question":"In which products is you contact interested in?",
+        "options":[
+            "MY-SYSTEM",
+            "Notion",
+            "JTS",
+            "JS EcoLine",
+            "AKW100",
+            "AX100"
+        ],
+        "answer":"He mentioned struggling with inventory management, and while he didn't explicitly say it, his comments about needing something \"scalable\" and \"integratable with our current CRM\"  strongly suggested he'd be interested in MY-SYSTEM's capabilities.  He also briefly mentioned using Notion for project management but seemed frustrated by its limitations in terms of data analysis, implying he might be open to a more robust solution like MY-SYSTEM or possibly even JTS, depending on its reporting features.  He definitely wasn't interested in the smaller, more specialized equipment like the AKW100 or AX100; his company is quite large, and he made that clear.  He didn't mention JS EcoLine at all.",
+        "classified_option":"['MY-SYSTEM', 'JTS']"
+    }
+
+    {
+        "question":"What is the contact person interested in?",
+        "options":[
+            "100 Additive Manufacturing",
+            "200 Automation",
+            "300 Advanced Manufacturing",
+            "234 Assembly Systems",
+            "256 Joining Systems for large components",
+            "Others"
+        ],
+        "answer":"He mentioned struggling with efficiency in their current welding process for large steel structures, specifically citing issues with warping and inconsistent weld quality.  He was clearly looking for solutions to improve the speed and reliability of their joining processes, and repeatedly emphasized the size of the components they work with.  His comments about a recent failed project due to weld defects further solidified this.",
+        "classified_option":"['200 Automation', '256 Joining Systems for large components', '300 Advanced Manufacturing']"
+    }
+
+    {
+        "question":"What is the type of the contact?",
+        "options":[
+            "Existing customer",
+            "Supplier",
+            "New customer \/ Prospect",
+            "Press \/ media",
+            "Competitor"
+        ],
+        "answer":"He mentioned being involved in large-scale construction projects, specifically mentioning a recent one near the city center.  That sounds like a potential client, but he didn't explicitly say he was looking for our services. He seemed more interested in our new line of sustainable materials, asking detailed questions about certifications and lifecycle analyses, which is something we can offer.  There was also a vague reference to a previous supplier relationship with a competitor of ours; it wasn't clear if they were still working with that competitor.  He didn't offer business cards, just his email address, and his company wasn't immediately recognizable as one of our existing accounts.",
+        "classified_option":"['New customer \/ Prospect']"
+    }
+
+    {
+        "question":"What kind of solution is you contract searching for?",
+        "options":[
+            "Scan business cards",
+            "Clean up CRM",
+            "Extract data from emails",
+            "Improve CRM data quality",
+            "Capture trade fair contacts"
+        ],
+        "answer":"He mentioned his team spends hours manually entering contact information from business cards into their CRM, complaining about the time wasted and the potential for errors.  He also specifically said they were looking for a way to more effectively capture leads from this trade show \u2013  a way to get all those contacts into their system quickly and accurately.  While he didn't explicitly discuss email data extraction or CRM cleanup, the context of his frustration with manual data entry strongly suggests a need for solutions that improve CRM data quality.",
+        "classified_option":"['Scan business cards', 'Improve CRM data quality', 'Capture trade fair contacts']"
+    }
+
+    {
+        "question":"In which products is your contact interested in?",
+        "options":[
+            "Automotive radar target simulation",
+            "Noise figure measurements",
+            "Double-Pulse Testing",
+            "Display port debugging and compliance",
+            "High-speed interconnect testing"
+        ],
+        "answer":"He mentioned having a lot of trouble with signal integrity on a new automotive radar system they're developing, specifically relating to high-speed data transmission.  That's why I think he\u2019d be interested in high-speed interconnect testing solutions.  He also briefly mentioned some issues with the accuracy of their current testing equipment, which could be relevant to double-pulse testing capabilities, though he didn't explicitly say that.  He wasn't focused on display port, noise figure wasn't directly discussed, and automotive radar simulation was only mentioned in the context of his overall project goal, not as a specific problem or need.",
+        "classified_option":"['High-speed interconnect testing', 'Double-Pulse Testing']"
+    }
+
+    {
+        "question":"Who would you like to copy in the follow up?",
+        "options":[
+            "Stephan Maier",
+            "Joachim Wagner",
+            "Erik Schneider",
+            "Oliver Eibel",
+            "Angelina Haug",
+            "Marisa Peng",
+            "Johannes Wagner",
+            "Jessica Hanke",
+            "Sandro Kalter",
+            "Jens Roschmann",
+            "Domiki Stein",
+            "Sean Kennin",
+            "Tim Persson"
+        ],
+        "answer":"Joachim Wagner is the head of procurement at their company,  mentioned in our conversation.  He seemed particularly interested in the efficiency gains our product offers, so a follow-up to him is crucial.  Stephan Maier, his colleague who was present, also expressed interest, though less directly, so copying him might be beneficial to build broader awareness within their team.",
+        "classified_option":"['Joachim Wagner', 'Stephan Maier']"
+    }
+
+    {
+        "question":"What productinterests did you contact express?",
+        "options":[
+            "BusinessCards",
+            "DataEnrichment",
+            "VisitReport",
+            "Data Cleansing",
+            "DataQuality"
+        ],
+        "answer":"He was very interested in improving the accuracy of his company's customer database, mentioning several instances where outdated information had led to missed opportunities.  He specifically asked about our data cleansing capabilities and how our data enrichment tools could help fill in gaps in his existing data.  While he took a business card, his focus was clearly on the data quality aspects of our offerings.  He wasn't interested in the visit reporting feature at all.",
+        "classified_option":"['DataEnrichment', 'Data Cleansing', 'DataQuality']"
+    }
+
+    {
+        "question":"When does the contact person wish to receive a follow up?",
+        "options":[
+            "1 week",
+            "2 weeks",
+            "3 weeks"
+        ],
+        "answer":"During our conversation,  Mr. Henderson mentioned he's swamped with a big project deadline in two weeks. He also implied that anything before then would be too soon, but that he'd likely have more bandwidth after that deadline.  He didn't explicitly state a preference beyond that.  Because of the project deadline and the implication of being busy before then, I think a three-week follow-up would be best to avoid being intrusive.",
+        "classified_option":"['3 weeks']"
+    }
+
+    {
+        "question":"Which kind of follow up is planned with your contact?",
+        "options":[
+            "Email",
+            "Phone",
+            "Schedule a Visit",
+            "No action"
+        ],
+        "answer":"He mentioned being swamped with emails, so a phone call seemed more likely to get his immediate attention and allow for a more engaging conversation.  I also offered to send him some additional materials via email after our call, as a follow-up to our discussion about the software's integration capabilities.  He seemed genuinely interested in the potential time savings, and a quick follow-up phone call will let me solidify that interest before it fades.",
+        "classified_option":"['Phone', 'Email']"
+    }
+
+    {
+        "question":"In which products is you contact interested in?",
+        "options":[
+            "MY-SYSTEM",
+            "Notion",
+            "JTS",
+            "JS EcoLine",
+            "AKW100",
+            "AX100"
+        ],
+        "answer":"He mentioned struggling with inventory management, and while he didn't explicitly say it, his comments about needing better real-time data pointed strongly towards MY-SYSTEM's capabilities in that area.  He also casually mentioned using Notion for project management, but seemed open to exploring alternatives, particularly if they integrated better with his existing systems (which I believe MY-SYSTEM could handle).  He didn't seem particularly interested in the other options; the conversation largely focused on efficiency improvements related to inventory.",
+        "classified_option":"['MY-SYSTEM', 'Notion']"
+    }
+
+    {
+        "question":"What is the contact person interested in?",
+        "options":[
+            "100 Additive Manufacturing",
+            "200 Automation",
+            "300 Advanced Manufacturing",
+            "234 Assembly Systems",
+            "256 Joining Systems for large components",
+            "Others"
+        ],
+        "answer":"He was initially drawn to our booth because of the brochures showcasing our automation solutions for welding, specifically mentioning a project he's currently struggling with involving large, intricate metal components.  However, as we talked, he expressed significant interest in exploring how additive manufacturing could potentially streamline the prototyping phase of his assembly process, significantly reducing lead times.  He also briefly mentioned challenges with current assembly systems, but that seemed secondary to his immediate concerns with welding and prototyping.",
+        "classified_option":"['100 Additive Manufacturing', '200 Automation', '256 Joining Systems for large components']"
+    }
+
+    {
+        "question":"What is the type of the contact?",
+        "options":[
+            "Existing customer",
+            "Supplier",
+            "New customer \/ Prospect",
+            "Press \/ media",
+            "Competitor"
+        ],
+        "answer":"He mentioned being involved in the agricultural sector, specifically with large-scale grain farming,  and expressed interest in our new precision irrigation system.  He didn't recognize our company name, however, and didn't have any existing account or relationship with us.  His business card listed him as a farm manager, implying he's not a decision maker in a purchasing sense on his own, but a key influencer.  We discussed our system in some detail and he seemed genuinely interested in the potential cost savings. This all suggests a strong prospect for future sales.  There was no indication he was connected to any competitor or press.",
+        "classified_option":"['New customer \/ Prospect']"
+    }
+
+    {
+        "question":"What kind of solution is you contract searching for?",
+        "options":[
+            "Scan business cards",
+            "Clean up CRM",
+            "Extract data from emails",
+            "Improve CRM data quality",
+            "Capture trade fair contacts"
+        ],
+        "answer":"He mentioned struggling to keep his CRM up-to-date, especially after trade shows like this one.  He specifically said manually entering all the business cards was a huge time sink and often resulted in inaccurate data. He also briefly complained about the difficulty of finding relevant information within his existing CRM, implying poor data quality.  Therefore, his need to capture trade fair contacts efficiently, alongside his desire to improve his CRM data quality, are the key factors.",
+        "classified_option":"['Scan business cards', 'Improve CRM data quality', 'Capture trade fair contacts']"
+    }
+
+    {
+        "question":"In which products is your contact interested in?",
+        "options":[
+            "Automotive radar target simulation",
+            "Noise figure measurements",
+            "Double-Pulse Testing",
+            "Display port debugging and compliance",
+            "High-speed interconnect testing"
+        ],
+        "answer":"He mentioned struggling with signal integrity issues on a new automotive lidar system they're developing, specifically around the accuracy of their testing.  That immediately made me think of the Automotive radar target simulation \u2013 even though it's radar, the underlying challenges of accurate signal reproduction are similar.  He also briefly touched upon the challenges of testing the high-speed data links in the lidar, which makes High-speed interconnect testing relevant.",
+        "classified_option":"['Automotive radar target simulation', 'High-speed interconnect testing']"
+    }
+
+    {
+        "question":"Who would you like to copy in the follow up?",
+        "options":[
+            "Stephan Maier",
+            "Joachim Wagner",
+            "Erik Schneider",
+            "Oliver Eibel",
+            "Angelina Haug",
+            "Marisa Peng",
+            "Johannes Wagner",
+            "Jessica Hanke",
+            "Sandro Kalter",
+            "Jens Roschmann",
+            "Domiki Stein",
+            "Sean Kennin",
+            "Tim Persson"
+        ],
+        "answer":"Joachim Wagner is the head of procurement at their company, so a copy to him ensures the lead gets to the right decision-maker quickly.  Erik Schneider, mentioned in our conversation as the project lead for their current expansion, would also be a relevant contact as he's directly involved in the areas where our product offers the most benefit.  Finally, I'm including Stephan Maier, as he's the contact I initially connected with and he seemed very interested in our solution despite not having a direct purchasing role.  He might be able to provide further context and champion our proposal internally.",
+        "classified_option":"['Joachim Wagner', 'Erik Schneider', 'Stephan Maier']"
+    }
+
+    {
+        "question":"What productinterests did you contact express?",
+        "options":[
+            "BusinessCards",
+            "DataEnrichment",
+            "VisitReport",
+            "Data Cleansing",
+            "DataQuality"
+        ],
+        "answer":"He was very interested in improving the accuracy of his client database, mentioning several instances of outdated information causing missed opportunities.  He specifically talked about needing to cleanse the data and enrich it with up-to-date contact details.  While he briefly looked at the business card scanner, he didn't seem particularly engaged with that aspect; his primary focus was on data quality.  The visit report feature was not discussed.",
+        "classified_option":"['DataEnrichment', 'Data Cleansing', 'DataQuality']"
+    }
+
+    {
+        "question":"When does the contact person wish to receive a follow up?",
+        "options":[
+            "1 week",
+            "2 weeks",
+            "3 weeks"
+        ],
+        "answer":"During our conversation,  Mr. Jones mentioned he's quite busy next week with a major project deadline. He did, however, express a strong interest in our product and said he'd have more time to review the materials and discuss further implementation details in two weeks.  He seemed receptive to a follow up then, and didn't specify a preference for any earlier or later time.  Therefore, I think a two-week timeframe best respects his schedule while keeping the momentum going.",
+        "classified_option":"['2 weeks']"
+    }
+
+    {
+        "question":"Which kind of follow up is planned with your contact?",
+        "options":[
+            "Email",
+            "Phone",
+            "Schedule a Visit",
+            "No action"
+        ],
+        "answer":"I'm choosing \"Email\" because he seemed genuinely interested in our new line of sustainable packaging, but was short on time at the booth.  An email allows me to send him more detailed information, including case studies and pricing, at his leisure.  I'm also selecting \"Schedule a Visit\" because he mentioned being very busy but hinted that a face-to-face meeting at his office later in the week might be possible, if I could provide him with some preliminary data beforehand (which the email will do).  He seemed particularly intrigued by the customizability options, which are better explained in person with the relevant samples.",
+        "classified_option":"['Email', 'Schedule a Visit']"
+    }
+
+    {
+        "question":"In which products is you contact interested in?",
+        "options":[
+            "MY-SYSTEM",
+            "Notion",
+            "JTS",
+            "JS EcoLine",
+            "AKW100",
+            "AX100"
+        ],
+        "answer":"He mentioned struggling with inventory management and seemed particularly frustrated with his current system's reporting capabilities.  He specifically used the phrase \"inefficient data analysis,\" which made me think MY-SYSTEM's real-time reporting features would be a strong selling point.  He also briefly touched on needing something more intuitive for his team, and I think Notion's collaborative features might be of interest to him, although he didn't explicitly say so.  The rest of the products didn't seem relevant based on our conversation.",
+        "classified_option":"['MY-SYSTEM', 'Notion']"
+    }
+
+    {
+        "question":"What is the contact person interested in?",
+        "options":[
+            "100 Additive Manufacturing",
+            "200 Automation",
+            "300 Advanced Manufacturing",
+            "234 Assembly Systems",
+            "256 Joining Systems for large components",
+            "Others"
+        ],
+        "answer":"He mentioned struggling with efficiency in their current welding processes for large-scale projects, specifically citing difficulties in achieving consistent weld quality and reducing downtime.  He also briefly touched on exploring robotic solutions for automation in that welding process, though he seemed more focused on the immediate problem of improving the joining system itself.  Therefore, while automation is relevant, his primary concern was the current joining process for large components.",
+        "classified_option":"['234 Assembly Systems', '256 Joining Systems for large components', '300 Advanced Manufacturing', '200 Automation']"
+    }
+
+    {
+        "question":"What is the type of the contact?",
+        "options":[
+            "Existing customer",
+            "Supplier",
+            "New customer \/ Prospect",
+            "Press \/ media",
+            "Competitor"
+        ],
+        "answer":"He mentioned being involved in sustainable packaging solutions, which is directly related to our company's new biodegradable product line.  He didn't recognize our company name, but expressed keen interest in the types of materials we use and our manufacturing processes.  He also asked about our distribution network and potential for collaboration, implying he was looking for new suppliers or partnerships, rather than being a direct competitor.  There was no indication he was press or media.",
+        "classified_option":"['New customer \/ Prospect', 'Supplier']"
+    }
+
+    {
+        "question":"What kind of solution is you contract searching for?",
+        "options":[
+            "Scan business cards",
+            "Clean up CRM",
+            "Extract data from emails",
+            "Improve CRM data quality",
+            "Capture trade fair contacts"
+        ],
+        "answer":"He mentioned his CRM was a mess, overflowing with outdated and duplicated contacts.  He spends far too much time manually cleaning it up, and he wasn't confident in the data's accuracy. He also specifically said he was looking for a way to quickly input all the new business cards he'd collected at the trade show \u2013  something that could automatically transcribe them.  Therefore, it wasn't just about cleaning his existing CRM, but also significantly improving the quality of the data going into it in the future.",
+        "classified_option":"['Scan business cards', 'Clean up CRM', 'Improve CRM data quality', 'Capture trade fair contacts']"
+    }
+
+    {
+        "question":"In which products is your contact interested in?",
+        "options":[
+            "Automotive radar target simulation",
+            "Noise figure measurements",
+            "Double-Pulse Testing",
+            "Display port debugging and compliance",
+            "High-speed interconnect testing"
+        ],
+        "answer":"He mentioned experiencing significant issues with signal integrity in his company's new high-speed data transfer system for autonomous vehicles.  He specifically alluded to challenges in ensuring reliable data transmission at gigabit speeds, hinting at a need for thorough testing and debugging. While he didn't explicitly mention \"High-speed interconnect testing,\" the context of his problem strongly suggested it was a key area of interest.  He also briefly mentioned concerns about radar signal accuracy within the autonomous driving system, but that was a much more tangential comment; the high-speed interconnect issue was his clear main concern.",
+        "classified_option":"['High-speed interconnect testing']"
+    }
+
+    {
+        "question":"Who would you like to copy in the follow up?",
+        "options":[
+            "Stephan Maier",
+            "Joachim Wagner",
+            "Erik Schneider",
+            "Oliver Eibel",
+            "Angelina Haug",
+            "Marisa Peng",
+            "Johannes Wagner",
+            "Jessica Hanke",
+            "Sandro Kalter",
+            "Jens Roschmann",
+            "Domiki Stein",
+            "Sean Kennin",
+            "Tim Persson"
+        ],
+        "answer":"Joachim Wagner is the head of procurement at their company, and he expressed a strong interest in our product's sustainability features during our conversation.  Erik Schneider, his colleague who was with him, seemed less engaged, but Joachim mentioned that Erik would be involved in the final decision-making process.  Therefore, including both would ensure a comprehensive follow-up.",
+        "classified_option":"['Joachim Wagner', 'Erik Schneider']"
+    }
+
+    {
+        "question":"What productinterests did you contact express?",
+        "options":[
+            "BusinessCards",
+            "DataEnrichment",
+            "VisitReport",
+            "Data Cleansing",
+            "DataQuality"
+        ],
+        "answer":"He was initially drawn in by the flashy BusinessCards demo on our booth monitor,  but after I explained how our Data Enrichment capabilities could boost his lead generation, his interest shifted significantly.  He spent a good five minutes asking detailed questions about how our system integrates with his CRM, specifically focusing on improving data quality for more effective marketing campaigns.  He wasn't interested in the VisitReport feature at all; he seemed to have his own system for that. Data Cleansing was mentioned briefly in the context of the enrichment process, but it wasn't a primary focus of our discussion.  The overall impression was that he valued improved data quality as a means to a better ROI, not as an end in itself.",
+        "classified_option":"['BusinessCards', 'DataEnrichment', 'DataQuality']"
+    }
+
+    {
+        "question":"When does the contact person wish to receive a follow up?",
+        "options":[
+            "1 week",
+            "2 weeks",
+            "3 weeks"
+        ],
+        "answer":"During our conversation,  Mr. Henderson mentioned he's swamped with a major project deadline in two weeks. He seemed genuinely interested in our product, but stressed the need to review his current budget post-deadline.  He also said he\u2019d be more receptive to a detailed proposal and price quote after that, implying he doesn't want to be contacted until then.  Given his comments, contacting him sooner than two weeks feels inappropriate and might lead to dismissal.  I'd risk losing the lead if I tried to follow up before he has the mental space to consider our offering.",
+        "classified_option":"['2 weeks']"
+    }
+
+    {
+        "question":"Which kind of follow up is planned with your contact?",
+        "options":[
+            "Email",
+            "Phone",
+            "Schedule a Visit",
+            "No action"
+        ],
+        "answer":"He mentioned being swamped with emails, and seemed genuinely interested in our product's ability to automate some of his processes.  He did however give me his card and seemed open to a brief follow up call to answer a couple of his questions about pricing tiers and integration with his current CRM. I think a phone call is the best immediate next step, to quickly address his concerns and gauge his level of interest before scheduling a more in-depth visit.  An email might get lost in his inbox.",
+        "classified_option":"['Phone', 'Schedule a Visit']"
+    }
+
+    {
+        "question":"In which products is you contact interested in?",
+        "options":[
+            "MY-SYSTEM",
+            "Notion",
+            "JTS",
+            "JS EcoLine",
+            "AKW100",
+            "AX100"
+        ],
+        "answer":"He mentioned struggling with their current inventory management system, specifically its lack of integration with their shipping software.  He seemed particularly interested in streamlining that process, which is a key selling point of MY-SYSTEM.  While he didn't explicitly say it, his frustration implied a need for a more robust and integrated solution than what he's currently using, leading me to believe MY-SYSTEM would be a strong fit. He also briefly mentioned using Notion for project management, but didn't express any dissatisfaction or desire for a change in that area.",
+        "classified_option":"['MY-SYSTEM']"
+    }
+
+    {
+        "question":"What is the contact person interested in?",
+        "options":[
+            "100 Additive Manufacturing",
+            "200 Automation",
+            "300 Advanced Manufacturing",
+            "234 Assembly Systems",
+            "256 Joining Systems for large components",
+            "Others"
+        ],
+        "answer":"He was initially drawn to our booth because of the brochures highlighting our automation solutions for welding, specifically mentioning challenges with large-scale component joining.  However, as we talked, he expressed a strong interest in the broader applications of additive manufacturing within his company's current assembly lines, particularly how it could streamline the production process and reduce material waste.  He didn't explicitly say it, but his questions about integrating new technologies into existing processes hinted at a keen interest in advanced manufacturing techniques overall.",
+        "classified_option":"['100 Additive Manufacturing', '200 Automation', '300 Advanced Manufacturing', '256 Joining Systems for large components']"
+    }
+
+    {
+        "question":"What is the type of the contact?",
+        "options":[
+            "Existing customer",
+            "Supplier",
+            "New customer \/ Prospect",
+            "Press \/ media",
+            "Competitor"
+        ],
+        "answer":"He mentioned being involved in agricultural technology, specifically precision irrigation systems.  Our company offers complementary soil sensor technology. He didn't know our company, but expressed strong interest in learning more about how our sensors could integrate with his existing irrigation systems. He had a business card with the title \"Director of Operations\" at a medium-sized farming operation.  He didn't seem to represent any press or media outlets, nor was he a competitor.  He's definitely a potential new client.",
+        "classified_option":"['New customer \/ Prospect']"
+    }
+
+    {
+        "question":"What kind of solution is you contract searching for?",
+        "options":[
+            "Scan business cards",
+            "Clean up CRM",
+            "Extract data from emails",
+            "Improve CRM data quality",
+            "Capture trade fair contacts"
+        ],
+        "answer":"He mentioned struggling to keep his sales team's contact information organized after trade shows, complaining about how much time they wasted manually entering data from business cards.  He specifically said his CRM was a mess and that's why they weren't following up effectively.  Although he didn't explicitly say \"business cards,\" his frustrations clearly indicated a need for a solution to capture and manage trade show contacts efficiently.  The implication was that a cleaner CRM would then follow, improving data quality.",
+        "classified_option":"['Scan business cards', 'Improve CRM data quality', 'Capture trade fair contacts']"
+    }
+
+    {
+        "question":"In which products is your contact interested in?",
+        "options":[
+            "Automotive radar target simulation",
+            "Noise figure measurements",
+            "Double-Pulse Testing",
+            "Display port debugging and compliance",
+            "High-speed interconnect testing"
+        ],
+        "answer":"He mentioned having a lot of trouble with signal integrity on a new automotive radar system they're developing.  He specifically voiced frustration with ensuring accurate target simulation during testing,  so that ruled out anything unrelated to automotive.  While he didn't explicitly mention noise figure, his concerns about signal integrity strongly implied it could be a related issue worth exploring further.  He didn't express any interest in display port or high-speed interconnect testing at all.  The conversation heavily centered around the challenges of the radar system, so Double-Pulse Testing, though technically relevant to some aspects of radar, wasn't a primary focus of his concerns.",
+        "classified_option":"['Automotive radar target simulation', 'Noise figure measurements']"
+    }
+
+    {
+        "question":"Who would you like to copy in the follow up?",
+        "options":[
+            "Stephan Maier",
+            "Joachim Wagner",
+            "Erik Schneider",
+            "Oliver Eibel",
+            "Angelina Haug",
+            "Marisa Peng",
+            "Johannes Wagner",
+            "Jessica Hanke",
+            "Sandro Kalter",
+            "Jens Roschmann",
+            "Domiki Stein",
+            "Sean Kennin",
+            "Tim Persson"
+        ],
+        "answer":"Joachim Wagner is the head of procurement at their company, and he expressed specific interest in our new software's integration capabilities.  He seemed particularly keen on the details I provided regarding seamless ERP integration, suggesting he'll be instrumental in any purchasing decision.  I also want to include Erik Schneider, as he's Joachim Wagner's direct report and seemed very engaged during our discussion about the user-friendliness of the interface.  His input might be crucial in the implementation phase.",
+        "classified_option":"['Joachim Wagner', 'Erik Schneider']"
+    }
+
+    {
+        "question":"What productinterests did you contact express?",
+        "options":[
+            "BusinessCards",
+            "DataEnrichment",
+            "VisitReport",
+            "Data Cleansing",
+            "DataQuality"
+        ],
+        "answer":"He was initially drawn in by the BusinessCards offering, specifically the automation features we showcased, but after I explained how our Data Enrichment capabilities could integrate with that and significantly improve his lead generation, his interest shifted. He seemed less concerned with the VisitReport feature, and Data Cleansing wasn't a primary focus for him. However, the conversation ended with him wanting to know more about how our overall system improved Data Quality, connecting back to the improved lead generation from enriched data.",
+        "classified_option":"['BusinessCards', 'DataEnrichment', 'DataQuality']"
+    }
+
+    {
+        "question":"When does the contact person wish to receive a follow up?",
+        "options":[
+            "1 week",
+            "2 weeks",
+            "3 weeks"
+        ],
+        "answer":"During our conversation,  Mr. Henderson mentioned he's swamped with a big project deadline in two weeks. He seemed genuinely interested in our software, but implied he wouldn't have much time to dedicate to reviewing the proposal until after that deadline. He specifically said something along the lines of \"Let's connect again in a couple of weeks once I've got some breathing room.\"  Therefore, I believe a follow up in two weeks is ideal.  A follow up in one week is too soon, given his workload.  Three weeks risks losing his interest.",
+        "classified_option":"['2 weeks']"
+    }
+
+    {
+        "question":"Which kind of follow up is planned with your contact?",
+        "options":[
+            "Email",
+            "Phone",
+            "Schedule a Visit",
+            "No action"
+        ],
+        "answer":"I'm planning to follow up with an email to send them the product brochure we discussed and the case study they were interested in.  I also want to schedule a brief phone call a few days later to answer any questions they might have after reviewing the materials and gauge their interest level before proposing a site visit.  A site visit seems appropriate given their company size and the potential for a large-scale implementation.",
+        "classified_option":"['Email', 'Phone', 'Schedule a Visit']"
+    }
+
+    {
+        "question":"In which products is you contact interested in?",
+        "options":[
+            "MY-SYSTEM",
+            "Notion",
+            "JTS",
+            "JS EcoLine",
+            "AKW100",
+            "AX100"
+        ],
+        "answer":"He mentioned struggling with inefficient data management in his current role as a project manager at a construction firm.  He specifically complained about the difficulty of tracking materials and deadlines across multiple projects.  He seemed intrigued when I mentioned MY-SYSTEM's project management capabilities, especially its reporting features. He also briefly expressed familiarity with Notion, but quickly dismissed it, suggesting it wasn't robust enough for his needs.  The scale of his projects led me to believe that the other options were probably underpowered for his requirements.",
+        "classified_option":"['MY-SYSTEM', 'Notion']"
+    }
+
+    {
+        "question":"What is the contact person interested in?",
+        "options":[
+            "100 Additive Manufacturing",
+            "200 Automation",
+            "300 Advanced Manufacturing",
+            "234 Assembly Systems",
+            "256 Joining Systems for large components",
+            "Others"
+        ],
+        "answer":"He was initially drawn to our booth because of the large-scale 3D-printed model we had on display, clearly indicating interest in additive manufacturing. However, the conversation quickly shifted when he mentioned his company's struggles with automating their current assembly line processes, specifically concerning the joining of large, irregularly shaped metal components.  He spent a considerable amount of time questioning our capabilities in that area and asking about case studies related to large component joining solutions. While he acknowledged the impressive additive manufacturing technology, his primary concern seemed to be streamlining his existing assembly processes.",
+        "classified_option":"['200 Automation', '234 Assembly Systems', '256 Joining Systems for large components', '300 Advanced Manufacturing']"
+    }
+
+    {
+        "question":"What is the type of the contact?",
+        "options":[
+            "Existing customer",
+            "Supplier",
+            "New customer \/ Prospect",
+            "Press \/ media",
+            "Competitor"
+        ],
+        "answer":"He mentioned their company was a distributor of industrial solvents, which puts them squarely in our supply chain.  However, he also expressed strong interest in our new line of biodegradable cleaning agents, suggesting they might become a customer, albeit a new one, for that specific product line.  The conversation was primarily business-focused, with no overt signs of him being press, a competitor, or an existing client (we don't have a record of them in our CRM).",
+        "classified_option":"['Supplier', 'New customer \/ Prospect']"
+    }
+
+    {
+        "question":"What kind of solution is you contract searching for?",
+        "options":[
+            "Scan business cards",
+            "Clean up CRM",
+            "Extract data from emails",
+            "Improve CRM data quality",
+            "Capture trade fair contacts"
+        ],
+        "answer":"He mentioned struggling to keep his contact database up-to-date, especially after trade shows like this one.  He was spending a lot of time manually entering information from business cards, which he said was inefficient. He also alluded to having a CRM that was cluttered with outdated information.  He specifically said he wished there was a way to automatically capture leads from the trade show, so that was a key focus of his frustration.",
+        "classified_option":"['Scan business cards', 'Clean up CRM', 'Improve CRM data quality', 'Capture trade fair contacts']"
+    }
+
+    {
+        "question":"In which products is your contact interested in?",
+        "options":[
+            "Automotive radar target simulation",
+            "Noise figure measurements",
+            "Double-Pulse Testing",
+            "Display port debugging and compliance",
+            "High-speed interconnect testing"
+        ],
+        "answer":"He mentioned experiencing significant issues with signal integrity in his company's newest high-speed data transmission system,  specifically referencing challenges in verifying compliance with industry standards.  He also seemed particularly intrigued by the demo of our automated test solution, which directly addresses those high-speed interconnect challenges.  We briefly touched upon his team's ongoing work with DisplayPort technology, and he indicated a desire to improve their debugging efficiency.",
+        "classified_option":"['Display port debugging and compliance', 'High-speed interconnect testing']"
+    }
+
+    {
+        "question":"Who would you like to copy in the follow up?",
+        "options":[
+            "Stephan Maier",
+            "Joachim Wagner",
+            "Erik Schneider",
+            "Oliver Eibel",
+            "Angelina Haug",
+            "Marisa Peng",
+            "Johannes Wagner",
+            "Jessica Hanke",
+            "Sandro Kalter",
+            "Jens Roschmann",
+            "Domiki Stein",
+            "Sean Kennin",
+            "Tim Persson"
+        ],
+        "answer":"Joachim Wagner is the Head of Procurement at their company, and he expressed significant interest in our new software\u2019s inventory management capabilities.  He specifically mentioned a problem they're having with their current system, which our solution directly addresses.  Additionally, Stephan Maier, who I spoke with briefly, is Joachim's direct report and was present during the conversation. While he didn't speak much,  his body language indicated he was also following the discussion closely.  Incorporating him in the follow-up ensures both decision-makers are aware of our solution and its potential impact.",
+        "classified_option":"['Joachim Wagner', 'Stephan Maier']"
+    }
+
+    {
+        "question":"What productinterests did you contact express?",
+        "options":[
+            "BusinessCards",
+            "DataEnrichment",
+            "VisitReport",
+            "Data Cleansing",
+            "DataQuality"
+        ],
+        "answer":"He was initially drawn in by the BusinessCards offering, intrigued by the potential for automation and lead generation.  However, as the conversation progressed, he revealed a significant challenge with inaccurate data impacting his sales team's efficiency. This led to a discussion about Data Cleansing and its potential to improve the overall quality of his CRM data. We also touched upon Data Enrichment as a way to enhance his existing contact information with more detailed insights, ultimately improving targeting and conversion rates.  He didn't seem interested in VisitReports as he already had a system in place, and DataQuality, while mentioned, was a secondary concern compared to the immediate needs he presented.",
+        "classified_option":"['BusinessCards', 'Data Cleansing', 'Data Enrichment']"
+    }
+
+    {
+        "question":"When does the contact person wish to receive a follow up?",
+        "options":[
+            "1 week",
+            "2 weeks",
+            "3 weeks"
+        ],
+        "answer":"During our conversation,  Mr. Henderson mentioned he's incredibly busy for the next two weeks, traveling for a conference and then dealing with a major product launch. However, he did say he'd have some breathing room the following week after that, and expressed interest in reviewing our proposal then.  He specifically said \"the week after next\" would be ideal.",
+        "classified_option":"['3 weeks']"
+    }
+
+    {
+        "question":"Which kind of follow up is planned with your contact?",
+        "options":[
+            "Email",
+            "Phone",
+            "Schedule a Visit",
+            "No action"
+        ],
+        "answer":"He mentioned needing a solution for streamlining their inventory management by next quarter, and seemed genuinely interested in our demo.  His business card indicated he's the head of operations, so he's likely the decision-maker.  An email follow-up with a link to a case study showcasing similar results would be good, but I think a phone call to discuss his specific needs and answer any questions would be more impactful to ensure we stay top-of-mind.  A visit might be premature at this stage, especially given his busy schedule which he alluded to.",
+        "classified_option":"['Email', 'Phone']"
+    }
+
+    {
+        "question":"In which products is you contact interested in?",
+        "options":[
+            "MY-SYSTEM",
+            "Notion",
+            "JTS",
+            "JS EcoLine",
+            "AKW100",
+            "AX100"
+        ],
+        "answer":"He mentioned struggling with inventory management, specifically tracking stock levels and predicting demand.  I demonstrated a feature in MY-SYSTEM that directly addresses that, showing a real-time inventory dashboard and forecasting tools. He seemed genuinely impressed and asked several follow-up questions about integration with his existing CRM.  Later, he casually mentioned using Notion for project management but expressed frustration with its limitations in reporting and data analysis, which MY-SYSTEM excels at.",
+        "classified_option":"['MY-SYSTEM', 'Notion']"
+    }
+
+    {
+        "question":"What is the contact person interested in?",
+        "options":[
+            "100 Additive Manufacturing",
+            "200 Automation",
+            "300 Advanced Manufacturing",
+            "234 Assembly Systems",
+            "256 Joining Systems for large components",
+            "Others"
+        ],
+        "answer":"He mentioned struggling with efficiency in their current welding processes for large steel structures, specifically citing bottlenecks in their assembly line.  He was clearly looking for solutions to improve the speed and perhaps reduce the labor costs associated with joining those large components.  He also briefly mentioned exploring robotic automation options, but his main focus seemed to be on the joining process itself.",
+        "classified_option":"['234 Assembly Systems', '256 Joining Systems for large components', '200 Automation']"
+    }
+
+    {
+        "question":"What is the type of the contact?",
+        "options":[
+            "Existing customer",
+            "Supplier",
+            "New customer \/ Prospect",
+            "Press \/ media",
+            "Competitor"
+        ],
+        "answer":"He mentioned their company was a long-time user of our competitor's software, but expressed frustration with their recent price increases and lack of customer support.  He seemed genuinely interested in our platform's features, specifically the integration with [mention specific feature] which he said would significantly improve their workflow.  He didn't have a purchase order or anything immediately ready, but he took my card and promised to follow up.  The conversation leaned heavily towards a potential future sale, but technically they are not a current customer.",
+        "classified_option":"['New customer \/ Prospect']"
+    }
+
+    {
+        "question":"What kind of solution is you contract searching for?",
+        "options":[
+            "Scan business cards",
+            "Clean up CRM",
+            "Extract data from emails",
+            "Improve CRM data quality",
+            "Capture trade fair contacts"
+        ],
+        "answer":"He mentioned his team spends hours manually entering contact information from the trade show into their CRM, complaining about the inefficiency and potential for errors.  He also expressed frustration with the current state of his CRM, saying it's cluttered and difficult to navigate, implying a need for cleanup or improved data quality.  While he didn't explicitly state it, his desire to streamline contact input strongly suggests a need to improve how they capture trade fair contacts.",
+        "classified_option":"['Clean up CRM', 'Improve CRM data quality', 'Capture trade fair contacts']"
+    }
+
+    {
+        "question":"In which products is your contact interested in?",
+        "options":[
+            "Automotive radar target simulation",
+            "Noise figure measurements",
+            "Double-Pulse Testing",
+            "Display port debugging and compliance",
+            "High-speed interconnect testing"
+        ],
+        "answer":"He mentioned struggling with signal integrity issues on a new automotive radar system they're developing, specifically mentioning difficulties in testing the system's response to various radar targets.  He seemed very interested in solutions that would streamline their testing process and improve accuracy.  He also briefly mentioned some challenges with display port compliance testing on a separate project, but seemed far less engaged when talking about that.  The automotive radar simulation was the clear focus of his interest and concerns.",
+        "classified_option":"['Automotive radar target simulation', 'High-speed interconnect testing']"
+    }
+
+    {
+        "question":"Who would you like to copy in the follow up?",
+        "options":[
+            "Stephan Maier",
+            "Joachim Wagner",
+            "Erik Schneider",
+            "Oliver Eibel",
+            "Angelina Haug",
+            "Marisa Peng",
+            "Johannes Wagner",
+            "Jessica Hanke",
+            "Sandro Kalter",
+            "Jens Roschmann",
+            "Domiki Stein",
+            "Sean Kennin",
+            "Tim Persson"
+        ],
+        "answer":"Joachim Wagner is our head of sales for the Western region, and this prospect mentioned a specific interest in expanding their operations into that area.  I also think Stephan Maier, our lead engineer, should be copied in because the prospect raised a very technical question regarding the integration of our software with their existing system that Stephan is best equipped to answer.",
+        "classified_option":"['Joachim Wagner', 'Stephan Maier']"
+    }
+
+    {
+        "question":"What productinterests did you contact express?",
+        "options":[
+            "BusinessCards",
+            "DataEnrichment",
+            "VisitReport",
+            "Data Cleansing",
+            "DataQuality"
+        ],
+        "answer":"He was very interested in improving the accuracy of his company's customer database, mentioning several instances of outdated information causing marketing misfires.  He specifically asked about our Data Cleansing and Data Enrichment capabilities, wanting to know how we could help update contact details and add missing information. He didn't seem as concerned with the reporting aspects (VisitReport or BusinessCards), though he did briefly mention needing a better system for tracking leads.  Data Quality was something he understood to be a benefit of the other two, but didn't actively raise as a specific need.",
+        "classified_option":"['Data Cleansing', 'Data Enrichment']"
+    }
+
+    {
+        "question":"When does the contact person wish to receive a follow up?",
+        "options":[
+            "1 week",
+            "2 weeks",
+            "3 weeks"
+        ],
+        "answer":"During our conversation,  Mr. Henderson mentioned he's swamped with a big project launching in two weeks. He implied he wouldn't have much time to review anything until after that deadline. However, he also seemed genuinely interested in our product and expressed a desire to explore it further once things calmed down.  Therefore, I avoided suggesting a follow-up in one week to avoid being a nuisance during his busy period, but three weeks might be too long to maintain his interest.  Two weeks after his project launch seems like the sweet spot to catch him when he has more availability and his interest is still fresh.",
+        "classified_option":"['2 weeks']"
+    }
+
